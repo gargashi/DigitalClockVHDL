@@ -9,3 +9,12 @@ List of features implemented:
 3. Alarm indicating LED
 
 The design has been implemented on a Nexys4 DDR FPGA development board. 
+
+Nexys4 DDR FPGA development board:
+![](Images/Capture_1.JPG)
+
+Alarm State Machine:
+![](Images/Capture_2.JPG)
+
+Complete State Machine:
+![](Images/Capture_3.JPG)
